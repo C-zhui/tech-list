@@ -1,105 +1,146 @@
 # tech-list
-> 包含我的技术栈，我喜欢使用的工具，保持更新
+> 包含我的技术栈, 我喜欢使用的工具, 保持更新
 
 ## 语言基础
 - JavaScript
   - https://zh.javascript.info/
 - CSS
   - 文档索引：https://css-tricks.com/ ,  https://cssreference.io/
-  - [张鑫旭博客](https://www.zhangxinxu.com/wordpress/category/css/)，大概是全国最懂 css 的人了，内容很不错
+  - [张鑫旭博客](https://www.zhangxinxu.com/wordpress/category/css/), 大概是全国最懂 css 的人了, 内容很不错
 - HTML：https://htmlreference.io/
 - 综合文档： https://developer.mozilla.org
-- TypeScript，工程化必备。
+- TypeScript, 工程化必备 
   - 官网 https://www.typescriptlang.org/
   - 类型挑战 https://github.com/type-challenges/type-challenges
   - [ttypescript](https://www.npmjs.com/package/ttypescript)
-- AssemblyScript，ts 子集，可以编译成 wasm。 https://www.assemblyscript.org/
+- [AssemblyScript](https://www.assemblyscript.org/), ts 子集, 可以编译成 wasm  
 
 ## 工具库
-- [lodash](https://lodash.com/)，数据操作
-- [dayjs](https://day.js.org/), [date-fns](https://date-fns.org/)，日期操作
-- [promise-funs](https://github.com/sindresorhus/promise-fun)，提供了独立的 promise 工具
-- [rxjs](https://rxjs.dev/guide/overview)，异步数据流操作，🚀 强烈推荐学习，totally change your life.
+- [lodash](https://lodash.com/), 数据操作
+- [dayjs](https://day.js.org/), [date-fns](https://date-fns.org/), 日期操作
+- [promise-funs](https://github.com/sindresorhus/promise-fun), 提供了独立的 promise 工具
+- [rxjs](https://rxjs.dev/guide/overview), 异步数据流操作, 响应式编程的通用方案, 🚀 强烈推荐学习, 
+- [async](https://caolan.github.io/async/v3/), 异步流程控制, 比较老, 不推荐, rxjs 更好用 
 - [localforage](https://localforage.github.io/localForage/), [idb](https://github.com/jakearchibald/idb), [daixie](https://dexie.org/) indexedDB 存储
+- [jsonata](https://jsonata.org/), 数据处理
+- [axios](https://axios-http.com/docs/intro), [ky](https://github.com/sindresorhus/ky), [alova](https://alova.js.org/) 请求库
 
-## React
+## React及
 - React 官网 https://react.dev/
 - Dan 的博客 https://overreacted.io/
-- Hook
-  - 常用工具 hook，[react-use](https://github.com/streamich/react-use), [ahook](https://ahooks.js.org)
-  - 专业的请求hook，[swr](https://swr.vercel.app/), [react-query](https://tanstack.com/query/latest/docs/framework/react/overview)
-  - 其他
-    - [observable-hook](https://observable-hooks.js.org/)，接入 rxjs 的最佳姿势
-- 模式
-  - [react pattern](./pattern.md)
-- 优化
-  - TODO
+- 常用工具 hook, [react-use](https://github.com/streamich/react-use), [ahook](https://ahooks.js.org)
+
 - 状态管理
-  - [redux-toolkit](https://redux-toolkit.js.org/introduction/getting-started)，redux 的最佳实践。 
-  - [mobx](https://mobx.js.org/README.html)，可变对象响应式。
-  - context: [unstated-next](https://github.com/jamiebuilds/unstated-next), [use-context-selector](https://github.com/dai-shi/use-context-selector), [react-tracked](https://github.com/dai-shi/react-tracked)。
-  - [zustand](https://zustand-demo.pmnd.rs/), [valtio](https://valtio.pmnd.rs/), [jotai](https://jotai.org/)，同一个作者，小巧精致。
-  - 可选方案很多，各有优劣，实际项目中我用的是我自己造的。
+  - [react-router](https://reactrouter.com)，路由状态管理
+  - [redux-toolkit](https://redux-toolkit.js.org/introduction/getting-started), redux 的最佳实践
+  - [mobx](https://mobx.js.org/README.html), 可变对象响应式 
+  - 基于 context
+    -  [unstated-next](https://github.com/jamiebuilds/unstated-next)
+    -  [use-context-selector](https://github.com/dai-shi/use-context-selector)
+    -  [react-tracked](https://github.com/dai-shi/react-tracked)
+  - [zustand](https://zustand-demo.pmnd.rs/), [valtio](https://valtio.pmnd.rs/), [jotai](https://jotai.org/), 同一个作者, 小巧精致
+  - [swr](https://swr.vercel.app/), [react-query](https://tanstack.com/query/latest/docs/framework/react/overview), 异步状态管理
+  - [observable-hook](https://observable-hooks.js.org/), 接入 rxjs 的最佳姿势
+  - …… 可选方案很多, 各有优劣, 实际项目中我用的是我自己造的, TODO 有空整理 
+
+- CSS方案
+  - BEM
+  - [css modules](https://github.com/css-modules/css-modules)
+  - [tailwindcss](https://tailwindcss.com/), [unocss](https://unocss.dev/)
+  - [emotion](https://emotion.sh/docs/@emotion/react)
+  - [mui system](https://mui.com/system/getting-started/)
+
 - 组件库
-  - [MUI](https://mui.com/core/)，YYDS。
-  - [antd](https://ant.design/components/overview-cn/)，阿里出品的中后台组件库。
-  - [shadcn](https://ui.shadcn.com/docs)，可以自己定制，很nice。
+  - [MUI](https://mui.com/core/), YYDS 
+  - [antd](https://ant.design/components/overview-cn/), 阿里旗下 
+  - [semi](https://semi.design/), 抖音旗下 
+  - [shadcn](https://ui.shadcn.com/docs), CV大法好, 可以自己定制是亮点
+
 - 框架
   - [nextjs](https://nextjs.org/)
   - [remix](https://remix.run/)
-- 可视化组件库：
-  - echarts, chartjs, recharts, antv, visx, gojs, d3
+
+- 可视化库：
+  - [echarts](https://www.echartsjs.com/zh/index.html), [chartjs](https://www.chartjs.org/), [recharts](http://recharts.org/en-US/), [antv](https://antv.antgroup.com/), [visx](https://airbnb.io/visx/), [gojs](https://gojs.net/latest/index.html), [d3](https://d3js.org/)
+
 - 交互, 动画
-  - [anime.js](https://animejs.com/)，动画工具函数
-  - [framer-motion](framer-motion) ，声明式的动画组件库
+  - [anime.js](https://animejs.com/), 动画工具函数
+  - [framer-motion](framer-motion) , 声明式的动画组件库
   - [react-spring](https://www.react-spring.dev/) 弹簧动画 hook
-  - [use-gesture](https://use-gesture.netlify.app/) 手势库，可组合多种事件做交互，通常结合 react-spring 使用
-  - [react-dnd](https://react-dnd.github.io/react-dnd/)，[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)，[react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 拖拽交互, 布局
-  - [React-Splitters](https://github.com/martinnov92/React-Splitters)，[golden-layout](https://golden-layout.com/) 分割面板
-  - lottie动画，https://github.com/airbnb/lottie-web
-- 实用组件（没啥好的分类，就单独列举了）
-  - [react-activation](https://github.com/CJY0208/react-activation)，实现了类似 vue 的 <keep-alive>
-  - [react-select](https://react-select.com/home)，很精致, 丰富, 可定制的 select 组件
+  - [use-gesture](https://use-gesture.netlify.app/) 手势库, 可组合多种事件做交互, 通常结合 react-spring 使用
+  - [react-dnd](https://react-dnd.github.io/react-dnd/), [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd), [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 拖拽交互, 布局
+  - [React-Splitters](https://github.com/martinnov92/React-Splitters), [golden-layout](https://golden-layout.com/) 分割面板
+  - [lottie](https://github.com/airbnb/lottie-web) 动画
+  - [canvas-confetti](https://www.npmjs.com/package/canvas-confetti), 礼炮效果
+
+- 实用组件（没啥好的分类, 就单独列举了）
+  - [react-activation](https://github.com/CJY0208/react-activation), 实现了类似 vue 的 \<keep-alive\> 组件，但是与 react 18 并发模式不兼容
+  - [react-select](https://react-select.com/home), 很精致, 丰富, 可定制的 select 组件
+  
+- 优化
+  - TODO
+  - react 18, batch update
+  - react 19 compiler
+
+- 模式、技巧
+  - TODO
+
 - 文档建设
   - [Gatsby](https://www.gatsbyjs.org/docs/)
   - [Docusaurus](https://docusaurus.io/)
   - [Storybook](https://storybook.js.org/)
+- code playground
+  - [codesandbox](https://codesandbox.io/)
+  - [stackblitz](https://stackblitz.com/)
+  - [replit](https://replit.com)
 
 ## 模式
-- 设计模式
+- 设计模式, https://refactoringguru.cn/design-patterns 、 GOF设计模式
 - 架构
 
 ## 微前端
-- module federation，模块联邦首选方案
-- micro-app
-- qiankun
-- wujie
+- [module federation](https://module-federation.io/), 模块联邦首选方案
+- [micro-app](https://micro-zoe.github.io/micro-app/)
+- [qiankun](https://qiankun.umijs.org/zh/guide)
+- [wujie](https://github.com/Tencent/wujie)
 
 ## 构建工具
-- webpack
-- rspack
-- parcel
-- vite
-- esbuild、tsup
-- swc
-- rollup、tsdx
+- [webpack](https://webpack.js.org/)
+- [rspack](https://rspack.dev/), [rsbuild](https://rsbuild.dev/)
+- [parcel](https://parceljs.org/)
+- [vite](https://vitejs.dev/)
+- [esbuild](https://esbuild.github.io/), [tsup](https://tsup.egoist.dev/)
+- [swc](https://swc.rs/)
+- [rollup](https://rollupjs.org/), [tsdx](https://tsdx.io/)
+- [rolldown](https://rolldown.rs/)
 
 ## 测试
-- jest
-- react-testing-library
-- vitest
-- playwright
-- cypress
+- [jest](https://jestjs.io/)
+- [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
+- [vitest](https://vitest.dev/)
+- [playwright](https://playwright.dev/)
+- [cypress](https://www.cypress.io/)
 
 ## 监控
 - TODO
-  
+
 ## 性能优化
+- [web.dev](https://web.dev/explore), 这个网站上有系列的文章讲性能优化
 - Script
 - CSS
 - WASM
 - WebGPU
-- SSR
 
 ## Git
-- TODO
+- https://git-scm.com/book/en/v2
+
+## 算法
+
+
+## 常用链接
+- Awesomes
+  - https://github.com/sorrycc/awesome-javascript
+  - https://github.com/enaqx/awesome-react
+  - https://github.com/sindresorhus/awesome-nodejs
+  - https://github.com/tayllan/awesome-algorithms
+  - https://github.com/sindresorhus/awesome
