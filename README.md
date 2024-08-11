@@ -24,8 +24,9 @@
 - [localforage](https://localforage.github.io/localForage/), [idb](https://github.com/jakearchibald/idb), [daixie](https://dexie.org/) indexedDB 存储
 - [jsonata](https://jsonata.org/), 数据处理
 - [axios](https://axios-http.com/docs/intro), [ky](https://github.com/sindresorhus/ky), [alova](https://alova.js.org/) 请求库
+- tapable-ts 插件化
 
-## React及
+## React
 - React 官网 https://react.dev/
 - Dan 的博客 https://overreacted.io/
 - 常用工具 hook, [react-use](https://github.com/streamich/react-use), [ahook](https://ahooks.js.org)
@@ -41,17 +42,18 @@
   - [zustand](https://zustand-demo.pmnd.rs/), [valtio](https://valtio.pmnd.rs/), [jotai](https://jotai.org/), 同一个作者, 小巧精致
   - [swr](https://swr.vercel.app/), [react-query](https://tanstack.com/query/latest/docs/framework/react/overview), 异步状态管理
   - [observable-hook](https://observable-hooks.js.org/), 接入 rxjs 的最佳姿势
-  - …… 可选方案很多, 各有优劣, 实际项目中我用的是我自己造的, TODO 有空整理 
+  - 可选方案很多, 各有优劣, 实际项目中通常需要组合各种技术, [状态管理](./state-management/state-management.md)、[设计一个状态管理工具](./state-management/a-state-management-design.md)
 
 - CSS方案
-  - BEM
-  - [css modules](https://github.com/css-modules/css-modules)
-  - [tailwindcss](https://tailwindcss.com/), [unocss](https://unocss.dev/)
-  - [emotion](https://emotion.sh/docs/@emotion/react)
-  - [mui system](https://mui.com/system/getting-started/)
+  - [BEM](https://getbem.com/), 朴素的 css 命名方案
+  - [css modules](https://github.com/css-modules/css-modules), 将自动 hash 的类名与 js 对象绑定，再也不用担心类名冲突了
+  - [tailwindcss](https://tailwindcss.com/), [unocss](https://unocss.dev/), 原子类，用起来很方便，但是 dom 结构很冗长
+  - [emotion](https://emotion.sh/docs/@emotion/react), css in js, 运行时动态生成样式类，缓存复用
+  - [mui system](https://mui.com/system/getting-started/), css in js, 同 emotion, 样式简写、定制主题
+  - [cva](https://cva.style/docs/getting-started/variants), 根据状态组合类名，可以结合 tailwindcss 组合出样式
 
 - 组件库
-  - [MUI](https://mui.com/core/), YYDS 
+  - [MUI](https://mui.com/core/), 世界级的UI组件库
   - [antd](https://ant.design/components/overview-cn/), 阿里旗下 
   - [semi](https://semi.design/), 抖音旗下 
   - [shadcn](https://ui.shadcn.com/docs), CV大法好, 可以自己定制是亮点
@@ -76,6 +78,8 @@
 - 实用组件（没啥好的分类, 就单独列举了）
   - [react-activation](https://github.com/CJY0208/react-activation), 实现了类似 vue 的 \<keep-alive\> 组件，但是与 react 18 并发模式不兼容
   - [react-select](https://react-select.com/home), 很精致, 丰富, 可定制的 select 组件
+  - 表单方案, react-hook-form, formik, formily
+  - 更多 https://github.com/brillout/awesome-react-components
   
 - 优化
   - TODO
@@ -83,9 +87,10 @@
   - react 19 compiler
 
 - 模式、技巧
-  - TODO
+  - https://www.patterns.dev/react
+  
 
-- 文档建设
+- 文档
   - [Gatsby](https://www.gatsbyjs.org/docs/)
   - [Docusaurus](https://docusaurus.io/)
   - [Storybook](https://storybook.js.org/)
@@ -95,8 +100,15 @@
   - [replit](https://replit.com)
 
 ## 模式
-- 设计模式, https://refactoringguru.cn/design-patterns 、 GOF设计模式
-- 架构
+- 设计模式
+  - https://www.patterns.dev/
+  - https://refactoringguru.cn/design-patterns
+  - https://www.tutorialspoint.com/design_pattern/index.htm
+  - [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+- 架构模式
+  - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- Design system
+  - [什么是设计系统](https://pixso.cn/designskills/what-is-a-design-system/)
 
 ## 微前端
 - [module federation](https://module-federation.io/), 模块联邦首选方案
@@ -135,7 +147,6 @@
 - https://git-scm.com/book/en/v2
 
 ## 算法
-
 
 ## 常用链接
 - Awesomes
