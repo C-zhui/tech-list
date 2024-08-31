@@ -1,5 +1,5 @@
-# tech-list
-> 包含我的技术栈, 我喜欢使用的工具, 保持更新
+# Tech List
+> 我目前是一个前端工程师，本文包含我的技术栈, 我喜欢使用的工具, 保持更新
 
 ## 语言基础
 - JavaScript
@@ -12,6 +12,7 @@
 - TypeScript, 工程化必备 
   - 官网 https://www.typescriptlang.org/
   - 类型挑战 https://github.com/type-challenges/type-challenges
+  - 类型工具 https://github.com/sindresorhus/type-fest
   - [ttypescript](https://www.npmjs.com/package/ttypescript)
 - [AssemblyScript](https://www.assemblyscript.org/), ts 子集, 可以编译成 wasm  
 
@@ -24,7 +25,7 @@
 - [localforage](https://localforage.github.io/localForage/), [idb](https://github.com/jakearchibald/idb), [daixie](https://dexie.org/) indexedDB 存储
 - [jsonata](https://jsonata.org/), 数据处理
 - [axios](https://axios-http.com/docs/intro), [ky](https://github.com/sindresorhus/ky), [alova](https://alova.js.org/) 请求库
-- tapable-ts 插件化
+- [tapable-ts](https://www.npmjs.com/package/tapable-ts) 插件化
 
 ## React
 - React 官网 https://react.dev/
@@ -42,7 +43,7 @@
   - [zustand](https://zustand-demo.pmnd.rs/), [valtio](https://valtio.pmnd.rs/), [jotai](https://jotai.org/), 同一个作者, 小巧精致
   - [swr](https://swr.vercel.app/), [react-query](https://tanstack.com/query/latest/docs/framework/react/overview), 异步状态管理
   - [observable-hook](https://observable-hooks.js.org/), 接入 rxjs 的最佳姿势
-  - 可选方案很多, 各有优劣, 实际项目中通常需要组合各种技术, [状态管理](./state-management/state-management.md)、[设计一个状态管理工具](./state-management/a-state-management-design.md)
+  - 可选方案很多, 各有优劣, 实际项目中通常需要组合各种技术, [设计一个状态管理工具](./state-management/design.md)
 
 - CSS方案
   - [BEM](https://getbem.com/), 朴素的 css 命名方案
@@ -64,6 +65,7 @@
 
 - 可视化库：
   - [echarts](https://www.echartsjs.com/zh/index.html), [chartjs](https://www.chartjs.org/), [recharts](http://recharts.org/en-US/), [antv](https://antv.antgroup.com/), [visx](https://airbnb.io/visx/), [gojs](https://gojs.net/latest/index.html), [d3](https://d3js.org/)
+  - [mermaid](https://mermaid.js.org/intro/), 使用文本画图
 
 - 交互, 动画
   - [anime.js](https://animejs.com/), 动画工具函数
@@ -76,7 +78,7 @@
   - [canvas-confetti](https://www.npmjs.com/package/canvas-confetti), 礼炮效果
 
 - 实用组件（没啥好的分类, 就单独列举了）
-  - [react-activation](https://github.com/CJY0208/react-activation), 实现了类似 vue 的 \<keep-alive\> 组件，但是与 react 18 并发模式不兼容
+  - [react-activation](https://github.com/CJY0208/react-activation), 实现了类似 vue 的 \<keep-alive\> 组件，但是与 react 18 并发模式不兼容，期待 react offscreen 的实现
   - [react-select](https://react-select.com/home), 很精致, 丰富, 可定制的 select 组件
   - 表单方案, react-hook-form, formik, formily
   - 更多 https://github.com/brillout/awesome-react-components
@@ -88,7 +90,6 @@
 
 - 模式、技巧
   - https://www.patterns.dev/react
-  
 
 - 文档
   - [Gatsby](https://www.gatsbyjs.org/docs/)
@@ -98,6 +99,7 @@
   - [codesandbox](https://codesandbox.io/)
   - [stackblitz](https://stackblitz.com/)
   - [replit](https://replit.com)
+  - [observablehq](https://observablehq.com/), 可视化
 
 ## 模式
 - 设计模式
@@ -147,6 +149,9 @@
 - https://git-scm.com/book/en/v2
 
 ## 算法
+- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/algorithm-visualizer/algorithm-visualizer
+- 
 
 ## 常用链接
 - Awesomes
@@ -155,3 +160,5 @@
   - https://github.com/sindresorhus/awesome-nodejs
   - https://github.com/tayllan/awesome-algorithms
   - https://github.com/sindresorhus/awesome
+- https://bestofjs.org/ , 下载量高的库，分门别类
+
