@@ -1,3 +1,379 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1146.7189381690896 724.5308300807567" width="1146.7189381690896" height="724.5308300807567">
- 
-  <rect x="0" y="0" width="1146.7189381690896" height="724.5308300807567" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(325.84311238293736 212.21749515193125) rotate(0 405.43791289307615 167.46826934814453)"><path d="M0 0 C246.34 0, 492.67 0, 810.88 0 M0 0 C292.59 0, 585.18 0, 810.88 0 M810.88 0 C810.88 88.35, 810.88 176.71, 810.88 334.94 M810.88 0 C810.88 117.89, 810.88 235.78, 810.88 334.94 M810.88 334.94 C495.25 334.94, 179.63 334.94, 0 334.94 M810.88 334.94 C543.04 334.94, 275.21 334.94, 0 334.94 M0 334.94 C0 254.77, 0 174.61, 0 0 M0 334.94 C0 242.36, 0 149.78, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(330.84311238293736 217.21749515193125) rotate(0 59.482421875 11.5)"><text x="0" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">stateInstance</text></g><g stroke-linecap="round" transform="translate(321.21120433889473 10) rotate(0 403.9108103428871 36.301002502441406)"><path d="M0 0 C198.14 0, 396.29 0, 807.82 0 M0 0 C282.92 0, 565.85 0, 807.82 0 M807.82 0 C807.82 17.63, 807.82 35.26, 807.82 72.6 M807.82 0 C807.82 19.5, 807.82 39, 807.82 72.6 M807.82 72.6 C578.59 72.6, 349.36 72.6, 0 72.6 M807.82 72.6 C595.68 72.6, 383.54 72.6, 0 72.6 M0 72.6 C0 48.51, 0 24.41, 0 0 M0 72.6 C0 55.67, 0 38.73, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(326.21120433889473 15) rotate(0 48.916015625 11.5)"><text x="0" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">stateModel</text></g><g mask="url(#mask-kl0LpG4sH7I3l-6S6WIF6)" stroke-linecap="round"><g transform="translate(401.3522671610573 89.95605042907924) rotate(0 -1.0170160888235387 55.910182806472214)"><path d="M0 0 C-0.67 36.93, -1.34 73.86, -2.03 111.82" stroke="#1e1e1e" stroke-width="1.5" fill="none" stroke-dasharray="8 9"></path></g><g transform="translate(401.3522671610573 89.95605042907924) rotate(0 -1.0170160888235387 55.910182806472214)"><path d="M-11.78 83.45 C-8.56 92.82, -5.34 102.19, -2.03 111.82" stroke="#1e1e1e" stroke-width="1.5" fill="none"></path></g><g transform="translate(401.3522671610573 89.95605042907924) rotate(0 -1.0170160888235387 55.910182806472214)"><path d="M8.74 83.82 C5.18 93.07, 1.62 102.32, -2.03 111.82" stroke="#1e1e1e" stroke-width="1.5" fill="none"></path></g></g><mask id="mask-kl0LpG4sH7I3l-6S6WIF6"><rect x="0" y="0" fill="#fff" width="503.38629933870436" height="301.7764160420237"></rect><rect x="378.10087607223375" y="136.66623323555143" fill="#000" width="44.46875" height="18.4" opacity="1"></rect></mask><g transform="translate(378.10087607223375 136.66623323555143) rotate(0 22.234375 9.20000000000001)"><text x="22.234375" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">create</text></g><g stroke-linecap="round" transform="translate(655.5794371722848 29.661451387095013) rotate(0 98.708755493164 17.03845977783203)"><path d="M0 0 C57.04 0, 114.09 0, 197.42 0 M0 0 C67.09 0, 134.18 0, 197.42 0 M197.42 0 C197.42 9.99, 197.42 19.99, 197.42 34.08 M197.42 0 C197.42 11.52, 197.42 23.04, 197.42 34.08 M197.42 34.08 C144.09 34.08, 90.76 34.08, 0 34.08 M197.42 34.08 C149.94 34.08, 102.47 34.08, 0 34.08 M0 34.08 C0 22.4, 0 10.71, 0 0 M0 34.08 C0 25.94, 0 17.8, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(696.4639739154488 37.49991116492704) rotate(0 57.82421875 9.2)"><text x="57.82421875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">aggregate event</text></g><g stroke-linecap="round" transform="translate(467.6880339740426 30.0683810338424) rotate(0 85.58212280273432 17.309722900390625)"><path d="M0 0 C65.8 0, 131.59 0, 171.16 0 M0 0 C47.86 0, 95.72 0, 171.16 0 M171.16 0 C171.16 12.71, 171.16 25.43, 171.16 34.62 M171.16 0 C171.16 9.38, 171.16 18.77, 171.16 34.62 M171.16 34.62 C124.27 34.62, 77.37 34.62, 0 34.62 M171.16 34.62 C135.76 34.62, 100.35 34.62, 0 34.62 M0 34.62 C0 21.38, 0 8.14, 0 0 M0 34.62 C0 26, 0 17.38, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(513.692031776777 38.17810393423302) rotate(0 39.57812500000003 9.2)"><text x="39.578125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">share state</text></g><g mask="url(#mask-uHDKCKe6AHR9wsrrKZBzj)" stroke-linecap="round"><g transform="translate(898.5989591248026 199.29974165637898) rotate(0 -59.593412527083274 -64.8904876029037)"><path d="M0 0 C-43.2 -47.04, -86.4 -94.08, -119.19 -129.78 M0 0 C-35.28 -38.42, -70.56 -76.84, -119.19 -129.78" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(898.5989591248026 199.29974165637898) rotate(0 -59.593412527083274 -64.8904876029037)"><path d="M-92.56 -115.96 C-102.21 -120.97, -111.86 -125.98, -119.19 -129.78 M-92.56 -115.96 C-100.44 -120.05, -108.32 -124.14, -119.19 -129.78" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(898.5989591248026 199.29974165637898) rotate(0 -59.593412527083274 -64.8904876029037)"><path d="M-107.68 -102.08 C-111.85 -112.12, -116.02 -122.16, -119.19 -129.78 M-107.68 -102.08 C-111.08 -110.28, -114.49 -118.48, -119.19 -129.78" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-uHDKCKe6AHR9wsrrKZBzj"><rect x="0" y="0" fill="#fff" width="1117.7857841789692" height="429.08071686218636"></rect><rect x="803.8727340977193" y="106.80925405347531" fill="#000" width="70.265625" height="55.199999999999996" opacity="1"></rect></mask><g transform="translate(803.8727340977193 106.80925405347529) rotate(0 35.1328125 27.599999999999994)"><text x="35.1328125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">created</text><text x="35.1328125" y="18.4" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">updated</text><text x="35.1328125" y="36.8" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">destroyed</text></g><g stroke-linecap="round" transform="translate(10 236.01030668673792) rotate(0 82.34856599140085 141.61128010840326)"><path d="M0 0 C33.23 0, 66.46 0, 164.7 0 M0 0 C60.01 0, 120.01 0, 164.7 0 M164.7 0 C164.7 110.6, 164.7 221.19, 164.7 283.22 M164.7 0 C164.7 106.36, 164.7 212.71, 164.7 283.22 M164.7 283.22 C110.49 283.22, 56.28 283.22, 0 283.22 M164.7 283.22 C113.17 283.22, 61.65 283.22, 0 283.22 M0 283.22 C0 182.66, 0 82.1, 0 0 M0 283.22 C0 190.1, 0 96.97, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(15 241.01030668673792) rotate(0 46.1279296875 11.5)"><text x="0" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">Consumer</text></g><g mask="url(#mask-Rb9Y4ZI8Trq-n8prUem9R)" stroke-linecap="round"><g transform="translate(185.75364579222025 288.38872600666866) rotate(0 105.40781775055837 29.949213907914924)"><path d="M0 0 C21.6 14.9, 43.21 29.8, 81.89 56.48 M0 0 C28.82 19.88, 57.65 39.76, 81.89 56.48 M81.89 56.48 C132.07 57.81, 182.26 59.14, 210.82 59.9 M81.89 56.48 C124.48 57.61, 167.06 58.74, 210.82 59.9" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(185.75364579222025 288.38872600666866) rotate(0 105.40781775055837 29.949213907914924)"><path d="M182.36 69.41 C189.87 66.9, 197.37 64.39, 210.82 59.9 M182.36 69.41 C192.38 66.06, 202.39 62.71, 210.82 59.9" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(185.75364579222025 288.38872600666866) rotate(0 105.40781775055837 29.949213907914924)"><path d="M182.91 48.89 C190.27 51.8, 197.63 54.7, 210.82 59.9 M182.91 48.89 C192.73 52.77, 202.55 56.64, 210.82 59.9" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-Rb9Y4ZI8Trq-n8prUem9R"><rect x="0" y="0" fill="#fff" width="496.569281293337" height="448.2871538224985"></rect><rect x="237.84991649540314" y="335.6694051134542" fill="#000" width="59.59375" height="18.4" opacity="1"></rect></mask><g transform="translate(237.84991649540314 335.6694051134542) rotate(0 53.311547047375484 -17.33146519887063)"><text x="29.796875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">dispatch</text></g><g stroke-linecap="round" transform="translate(362.9363455741386 277.3462727547951) rotate(0 371.50459564633593 64.90026174379221)"><path d="M0 0 C180.45 0, 360.9 0, 743.01 0 M0 0 C199.55 0, 399.1 0, 743.01 0 M743.01 0 C743.01 36.83, 743.01 73.67, 743.01 129.8 M743.01 0 C743.01 34.09, 743.01 68.17, 743.01 129.8 M743.01 129.8 C496.41 129.8, 249.8 129.8, 0 129.8 M743.01 129.8 C569.68 129.8, 396.36 129.8, 0 129.8 M0 129.8 C0 79.96, 0 30.11, 0 0 M0 129.8 C0 87.79, 0 45.77, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(367.9363455741386 282.3462727547951) rotate(0 24.462890625 11.5)"><text x="0" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">setup</text></g><g stroke-linecap="round" transform="translate(448.81278330240866 473.4672207465311) rotate(0 85.48346044081558 21.50212656526162)"><path d="M0 0 C54.04 0, 108.07 0, 170.97 0 M0 0 C54.01 0, 108.02 0, 170.97 0 M170.97 0 C170.97 9.93, 170.97 19.86, 170.97 43 M170.97 0 C170.97 13.74, 170.97 27.49, 170.97 43 M170.97 43 C120.83 43, 70.68 43, 0 43 M170.97 43 C115.25 43, 59.54 43, 0 43 M0 43 C0 29.9, 0 16.79, 0 0 M0 43 C0 25.88, 0 8.75, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(516.9524937432243 485.7693473117927) rotate(0 17.34375000000003 9.199999999999989)"><text x="17.34375" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">state</text></g><g stroke-linecap="round" transform="translate(648.9190433961214 474.5370295878189) rotate(0 85.48346044081558 21.50212656526162)"><path d="M0 0 C50.14 0, 100.28 0, 170.97 0 M0 0 C57.79 0, 115.57 0, 170.97 0 M170.97 0 C170.97 11.62, 170.97 23.23, 170.97 43 M170.97 0 C170.97 10.34, 170.97 20.68, 170.97 43 M170.97 43 C112.36 43, 53.76 43, 0 43 M170.97 43 C130.14 43, 89.31 43, 0 43 M0 43 C0 27.21, 0 11.41, 0 0 M0 43 C0 31.53, 0 20.06, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(714.8321913369371 486.8391561530805) rotate(0 19.5703125 9.199999999999989)"><text x="19.5703125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">event</text></g><g stroke-linecap="round" transform="translate(327.57206167904405 634.0951461937985) rotate(0 260.35510978119225 40.21784194347907)"><path d="M0 0 C191.24 0, 382.49 0, 520.71 0 M0 0 C141.13 0, 282.25 0, 520.71 0 M520.71 0 C520.71 22.04, 520.71 44.08, 520.71 80.44 M520.71 0 C520.71 16.64, 520.71 33.28, 520.71 80.44 M520.71 80.44 C321.53 80.44, 122.36 80.44, 0 80.44 M520.71 80.44 C391.09 80.44, 261.46 80.44, 0 80.44 M0 80.44 C0 60.03, 0 39.63, 0 0 M0 80.44 C0 52.18, 0 23.91, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(332.57206167904405 639.0951461937985) rotate(0 165.09765625 11.5)"><text x="0" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">plugin (maybe another stateInstance)</text></g><g stroke-linecap="round" transform="translate(402.1066140383704 327.77457430313393) rotate(0 55.89106047732935 20.076672345004567)"><path d="M0 0 C29.46 0, 58.92 0, 111.78 0 M0 0 C43.97 0, 87.94 0, 111.78 0 M111.78 0 C111.78 11.95, 111.78 23.9, 111.78 40.15 M111.78 0 C111.78 11.74, 111.78 23.48, 111.78 40.15 M111.78 40.15 C72.95 40.15, 34.13 40.15, 0 40.15 M111.78 40.15 C81.02 40.15, 50.26 40.15, 0 40.15 M0 40.15 C0 26.98, 0 13.8, 0 0 M0 40.15 C0 29.46, 0 18.77, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(436.65001826569977 338.6512466481385) rotate(0 21.34765625 9.199999999999989)"><text x="21.34765625" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">action</text></g><g stroke-linecap="round" transform="translate(652.7070510169789 327.12864740320936) rotate(0 79.4364698512261 20.148046636452875)"><path d="M0 0 C62.04 0, 124.08 0, 158.87 0 M0 0 C59.66 0, 119.32 0, 158.87 0 M158.87 0 C158.87 13.26, 158.87 26.53, 158.87 40.3 M158.87 0 C158.87 12.61, 158.87 25.21, 158.87 40.3 M158.87 40.3 C102.46 40.3, 46.05 40.3, 0 40.3 M158.87 40.3 C106.63 40.3, 54.4 40.3, 0 40.3 M0 40.3 C0 24.64, 0 8.99, 0 0 M0 40.3 C0 29.49, 0 18.69, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(705.456020868205 338.07669403966224) rotate(0 26.6875 9.199999999999989)"><text x="26.6875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">handler</text></g><g mask="url(#mask-jIvlsOtubB7rNHSQ1PKd1)" stroke-linecap="round"><g transform="translate(523.2396275647063 348.29144115083557) rotate(0 60.79590813091585 -1.11243163147509)"><path d="M0 0 C47.33 -0.87, 94.66 -1.73, 121.59 -2.22 M0 0 C40.16 -0.73, 80.32 -1.47, 121.59 -2.22" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(523.2396275647063 348.29144115083557) rotate(0 60.79590813091585 -1.11243163147509)"><path d="M93.59 8.55 C104.49 4.36, 115.39 0.16, 121.59 -2.22 M93.59 8.55 C102.84 4.99, 112.09 1.43, 121.59 -2.22" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(523.2396275647063 348.29144115083557) rotate(0 60.79590813091585 -1.11243163147509)"><path d="M93.22 -11.97 C104.26 -8.18, 115.31 -4.38, 121.59 -2.22 M93.22 -11.97 C102.59 -8.75, 111.96 -5.53, 121.59 -2.22" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-jIvlsOtubB7rNHSQ1PKd1"><rect x="0" y="0" fill="#fff" width="744.831443826538" height="450.51630441378575"></rect><rect x="561.3597544456222" y="337.9790095193605" fill="#000" width="45.3515625" height="18.4" opacity="1"></rect></mask><g transform="translate(561.3597544456222 337.9790095193605) rotate(0 22.675781249999943 9.199999999999989)"><text x="22.67578125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">trigger</text></g><g mask="url(#mask-MOz2sFhHM15-3Y5SElR8C)" stroke-linecap="round"><g transform="translate(675.9708032602869 377.4417678082159) rotate(0 -61.641630253601136 45.89435771485347)"><path d="M0 0 C-34.98 26.05, -69.97 52.09, -123.28 91.79 M0 0 C-32.38 24.1, -64.75 48.21, -123.28 91.79" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(675.9708032602869 377.4417678082159) rotate(0 -61.641630253601136 45.89435771485347)"><path d="M-106.8 66.72 C-111.48 73.84, -116.15 80.95, -123.28 91.79 M-106.8 66.72 C-111.13 73.31, -115.46 79.89, -123.28 91.79" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(675.9708032602869 377.4417678082159) rotate(0 -61.641630253601136 45.89435771485347)"><path d="M-94.54 83.18 C-102.7 85.63, -110.85 88.07, -123.28 91.79 M-94.54 83.18 C-102.09 85.44, -109.64 87.7, -123.28 91.79" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-MOz2sFhHM15-3Y5SElR8C"><rect x="0" y="0" fill="#fff" width="899.2540637674891" height="569.2304832379228"></rect><rect x="589.8604230066858" y="414.1361255230694" fill="#000" width="48.9375" height="18.4" opacity="1"></rect></mask><g transform="translate(589.8604230066858 414.1361255230694) rotate(0 24.468749999999943 9.199999999999989)"><text x="24.46875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">update</text></g><g mask="url(#mask-MYZ2ILkyf2-E0SpDL3Ox7)" stroke-linecap="round"><g transform="translate(753.1024291515785 377.08147390303156) rotate(0 -4.417738001191424 44.84230868922927)"><path d="M0 0 C-2.04 20.7, -4.08 41.41, -8.84 89.68 M0 0 C-2.82 28.66, -5.65 57.32, -8.84 89.68" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(753.1024291515785 377.08147390303156) rotate(0 -4.417738001191424 44.84230868922927)"><path d="M-16.28 60.62 C-14.56 67.33, -12.84 74.04, -8.84 89.68 M-16.28 60.62 C-13.9 69.91, -11.52 79.2, -8.84 89.68" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(753.1024291515785 377.08147390303156) rotate(0 -4.417738001191424 44.84230868922927)"><path d="M4.14 62.64 C1.14 68.88, -1.85 75.12, -8.84 89.68 M4.14 62.64 C-0.01 71.28, -4.15 79.92, -8.84 89.68" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-MYZ2ILkyf2-E0SpDL3Ox7"><rect x="0" y="0" fill="#fff" width="861.9379051539613" height="566.7660912814902"></rect><rect x="733.5714099003869" y="412.72378259226093" fill="#000" width="30.2265625" height="18.4" opacity="1"></rect></mask><g transform="translate(733.571409900387 412.7237825922609) rotate(0 15.11328125 9.19999999999996)"><text x="15.11328125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">emit</text></g><g mask="url(#mask-b8HufZTVVQWxKpZsbUWJN)" stroke-linecap="round"><g transform="translate(441.02356752523906 496.391315975192) rotate(0 -126.20899627759266 -38.13542896211604)"><path d="M0 0 C-43.38 -7.13, -86.75 -14.26, -160.58 -26.4 M0 0 C-38.62 -6.35, -77.23 -12.7, -160.58 -26.4 M-160.58 -26.4 C-192.06 -43.49, -223.54 -60.59, -252.42 -76.27 M-160.58 -26.4 C-182.51 -38.31, -204.44 -50.22, -252.42 -76.27" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(441.02356752523906 496.391315975192) rotate(0 -126.20899627759266 -38.13542896211604)"><path d="M-222.75 -71.83 C-230.76 -73.03, -238.78 -74.23, -252.42 -76.27 M-222.75 -71.83 C-229.88 -72.9, -237.02 -73.97, -252.42 -76.27" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(441.02356752523906 496.391315975192) rotate(0 -126.20899627759266 -38.13542896211604)"><path d="M-232.54 -53.8 C-237.91 -59.87, -243.28 -65.94, -252.42 -76.27 M-232.54 -53.8 C-237.32 -59.2, -242.1 -64.61, -252.42 -76.27" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-b8HufZTVVQWxKpZsbUWJN"><rect x="0" y="0" fill="#fff" width="793.4415600804243" height="672.662173899424"></rect><rect x="252.43517566986168" y="460.7955455810528" fill="#000" width="56.0234375" height="18.4" opacity="1"></rect></mask><g transform="translate(252.43517566986168 460.79554558105275) rotate(0 62.37939557778472 -2.5396585679767725)"><text x="28.01171875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">listenBy</text></g><g mask="url(#mask-BhlRf--Cjc46ZdnOmAhKK)" stroke-linecap="round"><g transform="translate(539.5204240044899 528.4083938878496) rotate(0 -3.5743461175347306 49.93010400538191)"><path d="M0 0 C-1.96 27.36, -3.92 54.72, -7.15 99.86 M0 0 C-1.48 20.66, -2.96 41.31, -7.15 99.86" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(539.5204240044899 528.4083938878496) rotate(0 -3.5743461175347306 49.93010400538191)"><path d="M-15.37 71.01 C-13.12 78.91, -10.87 86.82, -7.15 99.86 M-15.37 71.01 C-13.67 76.98, -11.97 82.94, -7.15 99.86" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(539.5204240044899 528.4083938878496) rotate(0 -3.5743461175347306 49.93010400538191)"><path d="M5.1 72.47 C1.74 79.98, -1.61 87.48, -7.15 99.86 M5.1 72.47 C2.57 78.14, 0.03 83.8, -7.15 99.86" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-BhlRf--Cjc46ZdnOmAhKK"><rect x="0" y="0" fill="#fff" width="646.6691162395593" height="728.2686018986134"></rect><rect x="507.9343591369553" y="569.1384978932315" fill="#000" width="56.0234375" height="18.4" opacity="1"></rect></mask><g transform="translate(507.9343591369552 569.1384978932315) rotate(0 28.011718749999943 9.199999999999989)"><text x="28.01171875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">listenBy</text></g><g mask="url(#mask-P_gHytIte9-KPqX5lsq1n)" stroke-linecap="round"><g transform="translate(745.1396202084345 527.9903198838823) rotate(0 -3.219968741086859 48.67073876165574)"><path d="M0 0 C-1.92 28.97, -3.83 57.95, -6.44 97.34 M0 0 C-1.88 28.46, -3.77 56.92, -6.44 97.34" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(745.1396202084345 527.9903198838823) rotate(0 -3.219968741086859 48.67073876165574)"><path d="M-14.82 68.53 C-12.32 77.11, -9.83 85.68, -6.44 97.34 M-14.82 68.53 C-12.37 76.96, -9.92 85.38, -6.44 97.34" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(745.1396202084345 527.9903198838823) rotate(0 -3.219968741086859 48.67073876165574)"><path d="M5.66 69.89 C2.06 78.06, -1.54 86.23, -6.44 97.34 M5.66 69.89 C2.12 77.92, -1.42 85.94, -6.44 97.34" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-P_gHytIte9-KPqX5lsq1n"><rect x="0" y="0" fill="#fff" width="851.5795576906082" height="725.3317974071938"></rect><rect x="713.9079327173476" y="567.461058645538" fill="#000" width="56.0234375" height="18.4" opacity="1"></rect></mask><g transform="translate(713.9079327173476 567.4610586455381) rotate(0 28.01171875 9.199999999999989)"><text x="28.01171875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">listenBy</text></g><g mask="url(#mask-WeXlQjq_kAgrb8cub6Ibj)" stroke-linecap="round"><g transform="translate(378.85088832406234 626.5656612122011) rotate(0 23.670991848603478 -123.75290740381882)"><path d="M0 0 C2.93 -16.49, 5.86 -32.97, 8.89 -50.08 M0 0 C2.78 -15.67, 5.57 -31.34, 8.89 -50.08 M8.89 -50.08 C22.55 -120.18, 36.2 -190.28, 47.34 -247.51 M8.89 -50.08 C21.54 -115, 34.18 -179.91, 47.34 -247.51" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(378.85088832406234 626.5656612122011) rotate(0 23.670991848603478 -123.75290740381882)"><path d="M52.02 -217.87 C50.48 -227.63, 48.94 -237.38, 47.34 -247.51 M52.02 -217.87 C50.56 -227.14, 49.09 -236.41, 47.34 -247.51" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(378.85088832406234 626.5656612122011) rotate(0 23.670991848603478 -123.75290740381882)"><path d="M31.88 -221.8 C36.97 -230.26, 42.06 -238.72, 47.34 -247.51 M31.88 -221.8 C36.72 -229.84, 41.56 -237.88, 47.34 -247.51" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-WeXlQjq_kAgrb8cub6Ibj"><rect x="0" y="0" fill="#fff" width="526.1928720212693" height="974.0714760198388"></rect><rect x="357.94855649164106" y="567.2815743164308" fill="#000" width="59.59375" height="18.4" opacity="1"></rect></mask><g transform="translate(357.94855649164106 567.2815743164308) rotate(0 44.57332368102476 -64.46882050804851)"><text x="29.796875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">dispatch</text></g><g stroke-linecap="round" transform="translate(25.16752327199805 34.10716027942033) rotate(0 63.546847883666004 36.185541933140286)"><path d="M0 0 C30.42 0, 60.84 0, 127.09 0 M0 0 C35.13 0, 70.26 0, 127.09 0 M127.09 0 C127.09 18.54, 127.09 37.08, 127.09 72.37 M127.09 0 C127.09 26.28, 127.09 52.56, 127.09 72.37 M127.09 72.37 C99.83 72.37, 72.56 72.37, 0 72.37 M127.09 72.37 C88.28 72.37, 49.46 72.37, 0 72.37 M0 72.37 C0 52.68, 0 32.98, 0 0 M0 72.37 C0 49.9, 0 27.44, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(60.916519593164054 58.79270221256061) rotate(0 27.7978515625 11.5)"><text x="27.7978515625" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">logger</text></g><g mask="url(#mask-UXLe6VQRx4DAAs42UeZAd)" stroke-linecap="round"><g transform="translate(316.62707855968966 63.057945224298045) rotate(0 -75.80092754709321 2.4170832323837192)"><path d="M0 0 C-15.2 0.75, -30.39 1.5, -56.96 2.81 M0 0 C-21.8 1.08, -43.61 2.15, -56.96 2.81 M-56.96 2.81 C-90.11 3.52, -123.26 4.23, -151.6 4.83 M-56.96 2.81 C-81.64 3.34, -106.31 3.87, -151.6 4.83" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(316.62707855968966 63.057945224298045) rotate(0 -75.80092754709321 2.4170832323837192)"><path d="M-123.64 -6.03 C-131.1 -3.13, -138.56 -0.23, -151.6 4.83 M-123.64 -6.03 C-134.34 -1.87, -145.04 2.29, -151.6 4.83" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(316.62707855968966 63.057945224298045) rotate(0 -75.80092754709321 2.4170832323837192)"><path d="M-123.2 14.49 C-130.78 11.91, -138.35 9.34, -151.6 4.83 M-123.2 14.49 C-134.07 10.79, -144.94 7.1, -151.6 4.83" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-UXLe6VQRx4DAAs42UeZAd"><rect x="0" y="0" fill="#fff" width="568.2289336538761" height="167.89211168906547"></rect><rect x="231.20930639936063" y="47.46937066633877" fill="#000" width="56.90625" height="36.8" opacity="1"></rect></mask><g transform="translate(231.20930639936057 47.46937066633877) rotate(0 9.616844613235884 18.005657790342994)"><text x="28.453125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">lifecycle</text><text x="28.453125" y="18.4" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">event</text></g><g stroke-linecap="round" transform="translate(893.5494983331298 323.69287914147293) rotate(0 84.88893100051791 20.65865096932731)"><path d="M0 0 C49.79 0, 99.59 0, 169.78 0 M0 0 C55.33 0, 110.65 0, 169.78 0 M169.78 0 C169.78 12.59, 169.78 25.18, 169.78 41.32 M169.78 0 C169.78 16.46, 169.78 32.91, 169.78 41.32 M169.78 41.32 C118.94 41.32, 68.1 41.32, 0 41.32 M169.78 41.32 C128.63 41.32, 87.49 41.32, 0 41.32 M0 41.32 C0 25.02, 0 8.72, 0 0 M0 41.32 C0 26.61, 0 11.91, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(954.1562027711477 332.85153011080024) rotate(0 24.2822265625 11.5)"><text x="24.2822265625" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">effect</text></g></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1146.7189381690896 724.5308300807567"
+  width="1146.7189381690896" height="724.5308300807567">
+
+  <rect x="0" y="0" width="1146.7189381690896" height="724.5308300807567" fill="#ffffff"></rect>
+  <g stroke-linecap="round"
+    transform="translate(325.84311238293736 212.21749515193125) rotate(0 405.43791289307615 167.46826934814453)">
+    <path
+      d="M0 0 C246.34 0, 492.67 0, 810.88 0 M0 0 C292.59 0, 585.18 0, 810.88 0 M810.88 0 C810.88 88.35, 810.88 176.71, 810.88 334.94 M810.88 0 C810.88 117.89, 810.88 235.78, 810.88 334.94 M810.88 334.94 C495.25 334.94, 179.63 334.94, 0 334.94 M810.88 334.94 C543.04 334.94, 275.21 334.94, 0 334.94 M0 334.94 C0 254.77, 0 174.61, 0 0 M0 334.94 C0 242.36, 0 149.78, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(330.84311238293736 217.21749515193125) rotate(0 59.482421875 11.5)"><text x="0" y="0"
+      font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">stateInstance</text></g>
+  <g stroke-linecap="round" transform="translate(321.21120433889473 10) rotate(0 403.9108103428871 36.301002502441406)">
+    <path
+      d="M0 0 C198.14 0, 396.29 0, 807.82 0 M0 0 C282.92 0, 565.85 0, 807.82 0 M807.82 0 C807.82 17.63, 807.82 35.26, 807.82 72.6 M807.82 0 C807.82 19.5, 807.82 39, 807.82 72.6 M807.82 72.6 C578.59 72.6, 349.36 72.6, 0 72.6 M807.82 72.6 C595.68 72.6, 383.54 72.6, 0 72.6 M0 72.6 C0 48.51, 0 24.41, 0 0 M0 72.6 C0 55.67, 0 38.73, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(326.21120433889473 15) rotate(0 48.916015625 11.5)"><text x="0" y="0"
+      font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">stateModel</text></g>
+  <g mask="url(#mask-kl0LpG4sH7I3l-6S6WIF6)" stroke-linecap="round">
+    <g transform="translate(401.3522671610573 89.95605042907924) rotate(0 -1.0170160888235387 55.910182806472214)">
+      <path d="M0 0 C-0.67 36.93, -1.34 73.86, -2.03 111.82" stroke="#1e1e1e" stroke-width="1.5" fill="none"
+        stroke-dasharray="8 9"></path>
+    </g>
+    <g transform="translate(401.3522671610573 89.95605042907924) rotate(0 -1.0170160888235387 55.910182806472214)">
+      <path d="M-11.78 83.45 C-8.56 92.82, -5.34 102.19, -2.03 111.82" stroke="#1e1e1e" stroke-width="1.5" fill="none">
+      </path>
+    </g>
+    <g transform="translate(401.3522671610573 89.95605042907924) rotate(0 -1.0170160888235387 55.910182806472214)">
+      <path d="M8.74 83.82 C5.18 93.07, 1.62 102.32, -2.03 111.82" stroke="#1e1e1e" stroke-width="1.5" fill="none">
+      </path>
+    </g>
+  </g>
+  <mask id="mask-kl0LpG4sH7I3l-6S6WIF6">
+    <rect x="0" y="0" fill="#fff" width="503.38629933870436" height="301.7764160420237"></rect>
+    <rect x="378.10087607223375" y="136.66623323555143" fill="#000" width="44.46875" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(378.10087607223375 136.66623323555143) rotate(0 22.234375 9.20000000000001)"><text
+      x="22.234375" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">create</text></g>
+  <g stroke-linecap="round"
+    transform="translate(655.5794371722848 29.661451387095013) rotate(0 98.708755493164 17.03845977783203)">
+    <path
+      d="M0 0 C57.04 0, 114.09 0, 197.42 0 M0 0 C67.09 0, 134.18 0, 197.42 0 M197.42 0 C197.42 9.99, 197.42 19.99, 197.42 34.08 M197.42 0 C197.42 11.52, 197.42 23.04, 197.42 34.08 M197.42 34.08 C144.09 34.08, 90.76 34.08, 0 34.08 M197.42 34.08 C149.94 34.08, 102.47 34.08, 0 34.08 M0 34.08 C0 22.4, 0 10.71, 0 0 M0 34.08 C0 25.94, 0 17.8, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(696.4639739154488 37.49991116492704) rotate(0 57.82421875 9.2)"><text x="57.82421875" y="0"
+      font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">aggregate event</text></g>
+  <g stroke-linecap="round"
+    transform="translate(467.6880339740426 30.0683810338424) rotate(0 85.58212280273432 17.309722900390625)">
+    <path
+      d="M0 0 C65.8 0, 131.59 0, 171.16 0 M0 0 C47.86 0, 95.72 0, 171.16 0 M171.16 0 C171.16 12.71, 171.16 25.43, 171.16 34.62 M171.16 0 C171.16 9.38, 171.16 18.77, 171.16 34.62 M171.16 34.62 C124.27 34.62, 77.37 34.62, 0 34.62 M171.16 34.62 C135.76 34.62, 100.35 34.62, 0 34.62 M0 34.62 C0 21.38, 0 8.14, 0 0 M0 34.62 C0 26, 0 17.38, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(513.692031776777 38.17810393423302) rotate(0 39.57812500000003 9.2)"><text x="39.578125" y="0"
+      font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">share state</text></g>
+  <g mask="url(#mask-uHDKCKe6AHR9wsrrKZBzj)" stroke-linecap="round">
+    <g transform="translate(898.5989591248026 199.29974165637898) rotate(0 -59.593412527083274 -64.8904876029037)">
+      <path d="M0 0 C-43.2 -47.04, -86.4 -94.08, -119.19 -129.78 M0 0 C-35.28 -38.42, -70.56 -76.84, -119.19 -129.78"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(898.5989591248026 199.29974165637898) rotate(0 -59.593412527083274 -64.8904876029037)">
+      <path
+        d="M-92.56 -115.96 C-102.21 -120.97, -111.86 -125.98, -119.19 -129.78 M-92.56 -115.96 C-100.44 -120.05, -108.32 -124.14, -119.19 -129.78"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(898.5989591248026 199.29974165637898) rotate(0 -59.593412527083274 -64.8904876029037)">
+      <path
+        d="M-107.68 -102.08 C-111.85 -112.12, -116.02 -122.16, -119.19 -129.78 M-107.68 -102.08 C-111.08 -110.28, -114.49 -118.48, -119.19 -129.78"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-uHDKCKe6AHR9wsrrKZBzj">
+    <rect x="0" y="0" fill="#fff" width="1117.7857841789692" height="429.08071686218636"></rect>
+    <rect x="803.8727340977193" y="106.80925405347531" fill="#000" width="70.265625" height="55.199999999999996"
+      opacity="1"></rect>
+  </mask>
+  <g transform="translate(803.8727340977193 106.80925405347529) rotate(0 35.1328125 27.599999999999994)"><text
+      x="35.1328125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">created</text><text x="35.1328125"
+      y="18.4" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">updated</text><text x="35.1328125"
+      y="36.8" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">destroyed</text></g>
+  <g stroke-linecap="round" transform="translate(10 236.01030668673792) rotate(0 82.34856599140085 141.61128010840326)">
+    <path
+      d="M0 0 C33.23 0, 66.46 0, 164.7 0 M0 0 C60.01 0, 120.01 0, 164.7 0 M164.7 0 C164.7 110.6, 164.7 221.19, 164.7 283.22 M164.7 0 C164.7 106.36, 164.7 212.71, 164.7 283.22 M164.7 283.22 C110.49 283.22, 56.28 283.22, 0 283.22 M164.7 283.22 C113.17 283.22, 61.65 283.22, 0 283.22 M0 283.22 C0 182.66, 0 82.1, 0 0 M0 283.22 C0 190.1, 0 96.97, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(15 241.01030668673792) rotate(0 46.1279296875 11.5)"><text x="0" y="0"
+      font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">Consumer</text></g>
+  <g mask="url(#mask-Rb9Y4ZI8Trq-n8prUem9R)" stroke-linecap="round">
+    <g transform="translate(185.75364579222025 288.38872600666866) rotate(0 105.40781775055837 29.949213907914924)">
+      <path
+        d="M0 0 C21.6 14.9, 43.21 29.8, 81.89 56.48 M0 0 C28.82 19.88, 57.65 39.76, 81.89 56.48 M81.89 56.48 C132.07 57.81, 182.26 59.14, 210.82 59.9 M81.89 56.48 C124.48 57.61, 167.06 58.74, 210.82 59.9"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(185.75364579222025 288.38872600666866) rotate(0 105.40781775055837 29.949213907914924)">
+      <path
+        d="M182.36 69.41 C189.87 66.9, 197.37 64.39, 210.82 59.9 M182.36 69.41 C192.38 66.06, 202.39 62.71, 210.82 59.9"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(185.75364579222025 288.38872600666866) rotate(0 105.40781775055837 29.949213907914924)">
+      <path
+        d="M182.91 48.89 C190.27 51.8, 197.63 54.7, 210.82 59.9 M182.91 48.89 C192.73 52.77, 202.55 56.64, 210.82 59.9"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-Rb9Y4ZI8Trq-n8prUem9R">
+    <rect x="0" y="0" fill="#fff" width="496.569281293337" height="448.2871538224985"></rect>
+    <rect x="237.84991649540314" y="335.6694051134542" fill="#000" width="59.59375" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(237.84991649540314 335.6694051134542) rotate(0 53.311547047375484 -17.33146519887063)"><text
+      x="29.796875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">dispatch</text></g>
+  <g stroke-linecap="round"
+    transform="translate(362.9363455741386 277.3462727547951) rotate(0 371.50459564633593 64.90026174379221)">
+    <path
+      d="M0 0 C180.45 0, 360.9 0, 743.01 0 M0 0 C199.55 0, 399.1 0, 743.01 0 M743.01 0 C743.01 36.83, 743.01 73.67, 743.01 129.8 M743.01 0 C743.01 34.09, 743.01 68.17, 743.01 129.8 M743.01 129.8 C496.41 129.8, 249.8 129.8, 0 129.8 M743.01 129.8 C569.68 129.8, 396.36 129.8, 0 129.8 M0 129.8 C0 79.96, 0 30.11, 0 0 M0 129.8 C0 87.79, 0 45.77, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(367.9363455741386 282.3462727547951) rotate(0 24.462890625 11.5)"><text x="0" y="0"
+      font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">setup</text></g>
+  <g stroke-linecap="round"
+    transform="translate(448.81278330240866 473.4672207465311) rotate(0 85.48346044081558 21.50212656526162)">
+    <path
+      d="M0 0 C54.04 0, 108.07 0, 170.97 0 M0 0 C54.01 0, 108.02 0, 170.97 0 M170.97 0 C170.97 9.93, 170.97 19.86, 170.97 43 M170.97 0 C170.97 13.74, 170.97 27.49, 170.97 43 M170.97 43 C120.83 43, 70.68 43, 0 43 M170.97 43 C115.25 43, 59.54 43, 0 43 M0 43 C0 29.9, 0 16.79, 0 0 M0 43 C0 25.88, 0 8.75, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(516.9524937432243 485.7693473117927) rotate(0 17.34375000000003 9.199999999999989)"><text
+      x="17.34375" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">state</text></g>
+  <g stroke-linecap="round"
+    transform="translate(648.9190433961214 474.5370295878189) rotate(0 85.48346044081558 21.50212656526162)">
+    <path
+      d="M0 0 C50.14 0, 100.28 0, 170.97 0 M0 0 C57.79 0, 115.57 0, 170.97 0 M170.97 0 C170.97 11.62, 170.97 23.23, 170.97 43 M170.97 0 C170.97 10.34, 170.97 20.68, 170.97 43 M170.97 43 C112.36 43, 53.76 43, 0 43 M170.97 43 C130.14 43, 89.31 43, 0 43 M0 43 C0 27.21, 0 11.41, 0 0 M0 43 C0 31.53, 0 20.06, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(714.8321913369371 486.8391561530805) rotate(0 19.5703125 9.199999999999989)"><text
+      x="19.5703125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">event</text></g>
+  <g stroke-linecap="round"
+    transform="translate(327.57206167904405 634.0951461937985) rotate(0 260.35510978119225 40.21784194347907)">
+    <path
+      d="M0 0 C191.24 0, 382.49 0, 520.71 0 M0 0 C141.13 0, 282.25 0, 520.71 0 M520.71 0 C520.71 22.04, 520.71 44.08, 520.71 80.44 M520.71 0 C520.71 16.64, 520.71 33.28, 520.71 80.44 M520.71 80.44 C321.53 80.44, 122.36 80.44, 0 80.44 M520.71 80.44 C391.09 80.44, 261.46 80.44, 0 80.44 M0 80.44 C0 60.03, 0 39.63, 0 0 M0 80.44 C0 52.18, 0 23.91, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(332.57206167904405 639.0951461937985) rotate(0 165.09765625 11.5)"><text x="0" y="0"
+      font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">plugin (maybe another
+      stateInstance)</text></g>
+  <g stroke-linecap="round"
+    transform="translate(402.1066140383704 327.77457430313393) rotate(0 55.89106047732935 20.076672345004567)">
+    <path
+      d="M0 0 C29.46 0, 58.92 0, 111.78 0 M0 0 C43.97 0, 87.94 0, 111.78 0 M111.78 0 C111.78 11.95, 111.78 23.9, 111.78 40.15 M111.78 0 C111.78 11.74, 111.78 23.48, 111.78 40.15 M111.78 40.15 C72.95 40.15, 34.13 40.15, 0 40.15 M111.78 40.15 C81.02 40.15, 50.26 40.15, 0 40.15 M0 40.15 C0 26.98, 0 13.8, 0 0 M0 40.15 C0 29.46, 0 18.77, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(436.65001826569977 338.6512466481385) rotate(0 21.34765625 9.199999999999989)"><text
+      x="21.34765625" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">action</text></g>
+  <g stroke-linecap="round"
+    transform="translate(652.7070510169789 327.12864740320936) rotate(0 79.4364698512261 20.148046636452875)">
+    <path
+      d="M0 0 C62.04 0, 124.08 0, 158.87 0 M0 0 C59.66 0, 119.32 0, 158.87 0 M158.87 0 C158.87 13.26, 158.87 26.53, 158.87 40.3 M158.87 0 C158.87 12.61, 158.87 25.21, 158.87 40.3 M158.87 40.3 C102.46 40.3, 46.05 40.3, 0 40.3 M158.87 40.3 C106.63 40.3, 54.4 40.3, 0 40.3 M0 40.3 C0 24.64, 0 8.99, 0 0 M0 40.3 C0 29.49, 0 18.69, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(705.456020868205 338.07669403966224) rotate(0 26.6875 9.199999999999989)"><text x="26.6875"
+      y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">handler</text></g>
+  <g mask="url(#mask-jIvlsOtubB7rNHSQ1PKd1)" stroke-linecap="round">
+    <g transform="translate(523.2396275647063 348.29144115083557) rotate(0 60.79590813091585 -1.11243163147509)">
+      <path d="M0 0 C47.33 -0.87, 94.66 -1.73, 121.59 -2.22 M0 0 C40.16 -0.73, 80.32 -1.47, 121.59 -2.22"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(523.2396275647063 348.29144115083557) rotate(0 60.79590813091585 -1.11243163147509)">
+      <path d="M93.59 8.55 C104.49 4.36, 115.39 0.16, 121.59 -2.22 M93.59 8.55 C102.84 4.99, 112.09 1.43, 121.59 -2.22"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(523.2396275647063 348.29144115083557) rotate(0 60.79590813091585 -1.11243163147509)">
+      <path
+        d="M93.22 -11.97 C104.26 -8.18, 115.31 -4.38, 121.59 -2.22 M93.22 -11.97 C102.59 -8.75, 111.96 -5.53, 121.59 -2.22"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-jIvlsOtubB7rNHSQ1PKd1">
+    <rect x="0" y="0" fill="#fff" width="744.831443826538" height="450.51630441378575"></rect>
+    <rect x="561.3597544456222" y="337.9790095193605" fill="#000" width="45.3515625" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(561.3597544456222 337.9790095193605) rotate(0 22.675781249999943 9.199999999999989)"><text
+      x="22.67578125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">trigger</text></g>
+  <g mask="url(#mask-MOz2sFhHM15-3Y5SElR8C)" stroke-linecap="round">
+    <g transform="translate(675.9708032602869 377.4417678082159) rotate(0 -61.641630253601136 45.89435771485347)">
+      <path d="M0 0 C-34.98 26.05, -69.97 52.09, -123.28 91.79 M0 0 C-32.38 24.1, -64.75 48.21, -123.28 91.79"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(675.9708032602869 377.4417678082159) rotate(0 -61.641630253601136 45.89435771485347)">
+      <path
+        d="M-106.8 66.72 C-111.48 73.84, -116.15 80.95, -123.28 91.79 M-106.8 66.72 C-111.13 73.31, -115.46 79.89, -123.28 91.79"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(675.9708032602869 377.4417678082159) rotate(0 -61.641630253601136 45.89435771485347)">
+      <path
+        d="M-94.54 83.18 C-102.7 85.63, -110.85 88.07, -123.28 91.79 M-94.54 83.18 C-102.09 85.44, -109.64 87.7, -123.28 91.79"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-MOz2sFhHM15-3Y5SElR8C">
+    <rect x="0" y="0" fill="#fff" width="899.2540637674891" height="569.2304832379228"></rect>
+    <rect x="589.8604230066858" y="414.1361255230694" fill="#000" width="48.9375" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(589.8604230066858 414.1361255230694) rotate(0 24.468749999999943 9.199999999999989)"><text
+      x="24.46875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">update</text></g>
+  <g mask="url(#mask-MYZ2ILkyf2-E0SpDL3Ox7)" stroke-linecap="round">
+    <g transform="translate(753.1024291515785 377.08147390303156) rotate(0 -4.417738001191424 44.84230868922927)">
+      <path d="M0 0 C-2.04 20.7, -4.08 41.41, -8.84 89.68 M0 0 C-2.82 28.66, -5.65 57.32, -8.84 89.68" stroke="#1e1e1e"
+        stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(753.1024291515785 377.08147390303156) rotate(0 -4.417738001191424 44.84230868922927)">
+      <path
+        d="M-16.28 60.62 C-14.56 67.33, -12.84 74.04, -8.84 89.68 M-16.28 60.62 C-13.9 69.91, -11.52 79.2, -8.84 89.68"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(753.1024291515785 377.08147390303156) rotate(0 -4.417738001191424 44.84230868922927)">
+      <path d="M4.14 62.64 C1.14 68.88, -1.85 75.12, -8.84 89.68 M4.14 62.64 C-0.01 71.28, -4.15 79.92, -8.84 89.68"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-MYZ2ILkyf2-E0SpDL3Ox7">
+    <rect x="0" y="0" fill="#fff" width="861.9379051539613" height="566.7660912814902"></rect>
+    <rect x="733.5714099003869" y="412.72378259226093" fill="#000" width="30.2265625" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(733.571409900387 412.7237825922609) rotate(0 15.11328125 9.19999999999996)"><text
+      x="15.11328125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">emit</text></g>
+  <g mask="url(#mask-b8HufZTVVQWxKpZsbUWJN)" stroke-linecap="round">
+    <g transform="translate(441.02356752523906 496.391315975192) rotate(0 -126.20899627759266 -38.13542896211604)">
+      <path
+        d="M0 0 C-43.38 -7.13, -86.75 -14.26, -160.58 -26.4 M0 0 C-38.62 -6.35, -77.23 -12.7, -160.58 -26.4 M-160.58 -26.4 C-192.06 -43.49, -223.54 -60.59, -252.42 -76.27 M-160.58 -26.4 C-182.51 -38.31, -204.44 -50.22, -252.42 -76.27"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(441.02356752523906 496.391315975192) rotate(0 -126.20899627759266 -38.13542896211604)">
+      <path
+        d="M-222.75 -71.83 C-230.76 -73.03, -238.78 -74.23, -252.42 -76.27 M-222.75 -71.83 C-229.88 -72.9, -237.02 -73.97, -252.42 -76.27"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(441.02356752523906 496.391315975192) rotate(0 -126.20899627759266 -38.13542896211604)">
+      <path
+        d="M-232.54 -53.8 C-237.91 -59.87, -243.28 -65.94, -252.42 -76.27 M-232.54 -53.8 C-237.32 -59.2, -242.1 -64.61, -252.42 -76.27"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-b8HufZTVVQWxKpZsbUWJN">
+    <rect x="0" y="0" fill="#fff" width="793.4415600804243" height="672.662173899424"></rect>
+    <rect x="252.43517566986168" y="460.7955455810528" fill="#000" width="56.0234375" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(252.43517566986168 460.79554558105275) rotate(0 62.37939557778472 -2.5396585679767725)"><text
+      x="28.01171875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">listenBy</text></g>
+  <g mask="url(#mask-BhlRf--Cjc46ZdnOmAhKK)" stroke-linecap="round">
+    <g transform="translate(539.5204240044899 528.4083938878496) rotate(0 -3.5743461175347306 49.93010400538191)">
+      <path d="M0 0 C-1.96 27.36, -3.92 54.72, -7.15 99.86 M0 0 C-1.48 20.66, -2.96 41.31, -7.15 99.86" stroke="#1e1e1e"
+        stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(539.5204240044899 528.4083938878496) rotate(0 -3.5743461175347306 49.93010400538191)">
+      <path
+        d="M-15.37 71.01 C-13.12 78.91, -10.87 86.82, -7.15 99.86 M-15.37 71.01 C-13.67 76.98, -11.97 82.94, -7.15 99.86"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(539.5204240044899 528.4083938878496) rotate(0 -3.5743461175347306 49.93010400538191)">
+      <path d="M5.1 72.47 C1.74 79.98, -1.61 87.48, -7.15 99.86 M5.1 72.47 C2.57 78.14, 0.03 83.8, -7.15 99.86"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-BhlRf--Cjc46ZdnOmAhKK">
+    <rect x="0" y="0" fill="#fff" width="646.6691162395593" height="728.2686018986134"></rect>
+    <rect x="507.9343591369553" y="569.1384978932315" fill="#000" width="56.0234375" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(507.9343591369552 569.1384978932315) rotate(0 28.011718749999943 9.199999999999989)"><text
+      x="28.01171875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">listenBy</text></g>
+  <g mask="url(#mask-P_gHytIte9-KPqX5lsq1n)" stroke-linecap="round">
+    <g transform="translate(745.1396202084345 527.9903198838823) rotate(0 -3.219968741086859 48.67073876165574)">
+      <path d="M0 0 C-1.92 28.97, -3.83 57.95, -6.44 97.34 M0 0 C-1.88 28.46, -3.77 56.92, -6.44 97.34" stroke="#1e1e1e"
+        stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(745.1396202084345 527.9903198838823) rotate(0 -3.219968741086859 48.67073876165574)">
+      <path
+        d="M-14.82 68.53 C-12.32 77.11, -9.83 85.68, -6.44 97.34 M-14.82 68.53 C-12.37 76.96, -9.92 85.38, -6.44 97.34"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(745.1396202084345 527.9903198838823) rotate(0 -3.219968741086859 48.67073876165574)">
+      <path d="M5.66 69.89 C2.06 78.06, -1.54 86.23, -6.44 97.34 M5.66 69.89 C2.12 77.92, -1.42 85.94, -6.44 97.34"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-P_gHytIte9-KPqX5lsq1n">
+    <rect x="0" y="0" fill="#fff" width="851.5795576906082" height="725.3317974071938"></rect>
+    <rect x="713.9079327173476" y="567.461058645538" fill="#000" width="56.0234375" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(713.9079327173476 567.4610586455381) rotate(0 28.01171875 9.199999999999989)"><text
+      x="28.01171875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">listenBy</text></g>
+  <g mask="url(#mask-WeXlQjq_kAgrb8cub6Ibj)" stroke-linecap="round">
+    <g transform="translate(378.85088832406234 626.5656612122011) rotate(0 23.670991848603478 -123.75290740381882)">
+      <path
+        d="M0 0 C2.93 -16.49, 5.86 -32.97, 8.89 -50.08 M0 0 C2.78 -15.67, 5.57 -31.34, 8.89 -50.08 M8.89 -50.08 C22.55 -120.18, 36.2 -190.28, 47.34 -247.51 M8.89 -50.08 C21.54 -115, 34.18 -179.91, 47.34 -247.51"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(378.85088832406234 626.5656612122011) rotate(0 23.670991848603478 -123.75290740381882)">
+      <path
+        d="M52.02 -217.87 C50.48 -227.63, 48.94 -237.38, 47.34 -247.51 M52.02 -217.87 C50.56 -227.14, 49.09 -236.41, 47.34 -247.51"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(378.85088832406234 626.5656612122011) rotate(0 23.670991848603478 -123.75290740381882)">
+      <path
+        d="M31.88 -221.8 C36.97 -230.26, 42.06 -238.72, 47.34 -247.51 M31.88 -221.8 C36.72 -229.84, 41.56 -237.88, 47.34 -247.51"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-WeXlQjq_kAgrb8cub6Ibj">
+    <rect x="0" y="0" fill="#fff" width="526.1928720212693" height="974.0714760198388"></rect>
+    <rect x="357.94855649164106" y="567.2815743164308" fill="#000" width="59.59375" height="18.4" opacity="1"></rect>
+  </mask>
+  <g transform="translate(357.94855649164106 567.2815743164308) rotate(0 44.57332368102476 -64.46882050804851)"><text
+      x="29.796875" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">dispatch</text></g>
+  <g stroke-linecap="round"
+    transform="translate(25.16752327199805 34.10716027942033) rotate(0 63.546847883666004 36.185541933140286)">
+    <path
+      d="M0 0 C30.42 0, 60.84 0, 127.09 0 M0 0 C35.13 0, 70.26 0, 127.09 0 M127.09 0 C127.09 18.54, 127.09 37.08, 127.09 72.37 M127.09 0 C127.09 26.28, 127.09 52.56, 127.09 72.37 M127.09 72.37 C99.83 72.37, 72.56 72.37, 0 72.37 M127.09 72.37 C88.28 72.37, 49.46 72.37, 0 72.37 M0 72.37 C0 52.68, 0 32.98, 0 0 M0 72.37 C0 49.9, 0 27.44, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(60.916519593164054 58.79270221256061) rotate(0 27.7978515625 11.5)"><text x="27.7978515625"
+      y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">logger</text></g>
+  <g mask="url(#mask-UXLe6VQRx4DAAs42UeZAd)" stroke-linecap="round">
+    <g transform="translate(316.62707855968966 63.057945224298045) rotate(0 -75.80092754709321 2.4170832323837192)">
+      <path
+        d="M0 0 C-15.2 0.75, -30.39 1.5, -56.96 2.81 M0 0 C-21.8 1.08, -43.61 2.15, -56.96 2.81 M-56.96 2.81 C-90.11 3.52, -123.26 4.23, -151.6 4.83 M-56.96 2.81 C-81.64 3.34, -106.31 3.87, -151.6 4.83"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(316.62707855968966 63.057945224298045) rotate(0 -75.80092754709321 2.4170832323837192)">
+      <path
+        d="M-123.64 -6.03 C-131.1 -3.13, -138.56 -0.23, -151.6 4.83 M-123.64 -6.03 C-134.34 -1.87, -145.04 2.29, -151.6 4.83"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+    <g transform="translate(316.62707855968966 63.057945224298045) rotate(0 -75.80092754709321 2.4170832323837192)">
+      <path
+        d="M-123.2 14.49 C-130.78 11.91, -138.35 9.34, -151.6 4.83 M-123.2 14.49 C-134.07 10.79, -144.94 7.1, -151.6 4.83"
+        stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+    </g>
+  </g>
+  <mask id="mask-UXLe6VQRx4DAAs42UeZAd">
+    <rect x="0" y="0" fill="#fff" width="568.2289336538761" height="167.89211168906547"></rect>
+    <rect x="231.20930639936063" y="47.46937066633877" fill="#000" width="56.90625" height="36.8" opacity="1"></rect>
+  </mask>
+  <g transform="translate(231.20930639936057 47.46937066633877) rotate(0 9.616844613235884 18.005657790342994)"><text
+      x="28.453125" y="0" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">lifecycle</text><text x="28.453125"
+      y="18.4" font-family="Helvetica, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">event</text></g>
+  <g stroke-linecap="round"
+    transform="translate(893.5494983331298 323.69287914147293) rotate(0 84.88893100051791 20.65865096932731)">
+    <path
+      d="M0 0 C49.79 0, 99.59 0, 169.78 0 M0 0 C55.33 0, 110.65 0, 169.78 0 M169.78 0 C169.78 12.59, 169.78 25.18, 169.78 41.32 M169.78 0 C169.78 16.46, 169.78 32.91, 169.78 41.32 M169.78 41.32 C118.94 41.32, 68.1 41.32, 0 41.32 M169.78 41.32 C128.63 41.32, 87.49 41.32, 0 41.32 M0 41.32 C0 25.02, 0 8.72, 0 0 M0 41.32 C0 26.61, 0 11.91, 0 0"
+      stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+  </g>
+  <g transform="translate(954.1562027711477 332.85153011080024) rotate(0 24.2822265625 11.5)"><text x="24.2822265625"
+      y="0" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle"
+      style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">effect</text></g>
+</svg>
